@@ -1,0 +1,66 @@
+/* ====== The Best INALCO Class Ever ====== */
+/* Basic page styling for readability and clarity */
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #222;
+  margin: 40px;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #0056b3;
+  text-align: center;
+}
+
+h2 {
+  color: #0069d9;
+  text-align: center;
+  margin-top: -10px;
+}
+
+h3 {
+  color: #333;
+  margin-top: 25px;
+}
+
+p {
+  max-width: 600px;
+  margin: 0 auto 1em;
+  text-align: center;
+}
+
+ul {
+  list-style-type: "💡 ";
+  max-width: 500px;
+  margin: 0 auto;
+  padding-left: 20px;
+}
+
+pre {
+  background-color: #eee;
+  border-left: 4px solid #0056b3;
+  padding: 10px;
+  max-width: 450px;
+  margin: 10px auto;
+  font-family: "Courier New", monospace;
+  font-size: 0.9em;
+}
+
+strong {
+  color: #d63384;
+}
+
+em {
+  color: #198754;
+  font-style: normal;
+  font-weight: bold;
+}
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+  font-size: 0.9em;
+  color: #555;
+}
